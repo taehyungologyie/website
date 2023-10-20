@@ -1,3 +1,2 @@
-website
-website created using Html         
+Website created using Html         
           
